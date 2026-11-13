@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Voice speaker",
+    "description": "Adds a speaker beside the composer that reads assistant replies with DeepSeek TTS, with a lightweight pitch shifter (original/loli/shota/neutral/boy/uncle) and a free fine-tune slider. Pitch shifting is local and playback costs nothing extra. Toggle it off to return to the native interface.",
+    "detail": "docs/DETAIL.md"
+  }
+}
